@@ -1,4 +1,4 @@
-## YT-DLP Simple Example
+## YT-DLP Example
 
 This Python script provides example code for a typical use case, such as downloading YouTube video audio and/or video. Enjoy!
 
